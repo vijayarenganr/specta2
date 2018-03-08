@@ -2,7 +2,7 @@ Welcome to the AWS CodeStar sample web application
 ==================================================
 
 This sample code helps get you started with a simple Node.js web application
-deployed by AWS Elastic Beanstalk.
+deployed by AWS Elastic Beanstalk. CodeStar.
 
 What's Here
 -----------
